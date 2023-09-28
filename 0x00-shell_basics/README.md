@@ -1,5 +1,7 @@
 #!/bin/bash
 # pwd
 Prints the absolute path to the current working directory
-#ls
+# ls
 List all the files in a directory
+# ls -l
+Lists all files in a directory in long format
