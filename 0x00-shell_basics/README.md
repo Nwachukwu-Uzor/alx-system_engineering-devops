@@ -7,3 +7,5 @@ List all the files in a directory
 Lists all files in a directory in long format
 # cd $HOME
 Changes the working directory to the user's home directory
+# ls -a
+List all repositories including hidden ones
